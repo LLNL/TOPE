@@ -1,5 +1,7 @@
 # Topology Optimization for Porous Electrodes (TOPE) 
 
+[![DOI](https://zenodo.org/badge/468080187.svg)](https://zenodo.org/badge/latestdoi/468080187)
+
 This code is for the topology optimization of porous electrodes. It was used to produce the results in [Roy et al., 2021](https://arxiv.org/abs/2111.12059). Please see the paper for more details.
 
 LLNL Release Number: LLNL-CODE-832425
