@@ -18,4 +18,4 @@ the list below as part of your commit.
 
 * Victor Beck, LLNL
 * Thomas Roy, LLNL
-* Miguel Salazar, LLNL
+* Miguel Salazar de Troya, LLNL
