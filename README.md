@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/468080187.svg)](https://zenodo.org/badge/latestdoi/468080187)
 
-This code is for the topology optimization of porous electrodes. It was used to produce the results in [Roy et al., 2021](https://arxiv.org/abs/2111.12059). Please see the paper for more details.
+This code is for the topology optimization of porous electrodes. It was used to produce the results in [Roy et al., 2022](https://link.springer.com/article/10.1007/s00158-022-03249-2). Please see the paper for more details.
 
 LLNL Release Number: LLNL-CODE-832425
 
