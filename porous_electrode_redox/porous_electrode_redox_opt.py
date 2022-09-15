@@ -51,7 +51,7 @@ if args.dim == 2:
     Lx = 2.
     Ly = 1.
     if Ny>0:
-        from utils.mesh2 import RectangleMesh2
+        from mesh2 import RectangleMesh2
         mesh = RectangleMesh2(Nx, Ny, Lm, Lw, Ly)
     elif args.initial_design == "fins":
         mesh = Mesh("fins_design.msh")
@@ -65,7 +65,7 @@ elif args.dim == 3:
     if Ny>0:
         Ny = 100
         Nx = Ny
-        from utils.mesh2 import BoxMesh3
+        from mesh2 import BoxMesh3
         mesh = BoxMesh3(Nx, Ny, Nx, Lm, Lw, Ly)
     else:
         mesh = Mesh('electrode_3D.msh')
